@@ -1,22 +1,14 @@
-@media screen and (max-width:1366px){
+@media screen and (min-width:1366px) and (max-width:1367px){
     body{
-    background-image: url("https://hdwallpaperim.com/wp-content/uploads/2017/08/22/333335-nebula-space-colorful.jpg");
+    background-image: url("https://initiate.alphacoders.com/images/664/cropped-1366-768-66413.jpg?7430");
      background-repeat: no-repeat;
      background-attachment: fixed; 
     }
 }
-@media screen and (max-width:1600px){
-    body{
-        background-image: url("https://hdwallpaperim.com/wp-content/uploads/2017/08/22/333335-nebula-space-colorful.jpg");
-        background-repeat: no-repeat;
-        background-attachment: fixed;
-    }
-
-}
 
 @media screen and (max-width:1920px){
     body{
-        background-image: url("https://hdwallpaperim.com/wp-content/uploads/2017/08/22/333335-nebula-space-colorful.jpg");
+        background-image: url("https://initiate.alphacoders.com/images/664/cropped-1920-1080-66413.jpg?4568");
         background-repeat: no-repeat;
         background-attachment: fixed;
 
@@ -25,12 +17,12 @@
 }
 @media screen and (min-width:2560px){
     body{
-        background-image: url("https://hdwallpaperim.com/wp-content/uploads/2017/08/22/333335-nebula-space-colorful.jpg");
+        background-image: url("https://initiate.alphacoders.com/images/664/cropped-3840-2160-66413.jpg?4043");
         background-repeat: no-repeat;
         background-attachment: fixed;
     }
 }
-@media screen and (max-width: 5120px){
+/*@media screen and (max-width: 5120px){
     body{
         background-image: url("https://hdwallpaperim.com/wp-content/uploads/2017/08/22/333335-nebula-space-colorful.jpg");
         background-attachment: fixed;
