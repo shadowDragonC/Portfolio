@@ -1,0 +1,32 @@
+@media screen and (max-width:1366px){
+    body{
+    background-image: url("../pics/BG_1366x768.jpg");
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+    }
+}
+@media screen and (max-width:1600px){
+    body{
+        background-image: url("../pics/BG_1600x900.jpg");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+    }
+
+}
+
+@media screen and (max-width:1920px){
+    body{
+        background-image: url("../pics/BG_1920x1080.jpg");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+
+    }
+
+}
+@media screen and (min-width:2560px){
+    body{
+        background-image: url("../pics/BG.jpg");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+    }
+}
