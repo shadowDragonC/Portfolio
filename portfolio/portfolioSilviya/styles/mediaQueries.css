@@ -1,0 +1,38 @@
+@media screen and (max-width:1366px){
+    body{
+    background-image: url("https://initiate.alphacoders.com/images/453/cropped-1366-768-453245.jpg?3235");
+     background-repeat: no-repeat;
+     background-attachment: fixed; 
+    }
+}
+@media screen and (max-width:1600px){
+    body{
+        background-image: url("https://initiate.alphacoders.com/images/453/cropped-1600-900-453245.jpg?4155");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+    }
+
+}
+
+@media screen and (max-width:1920px){
+    body{
+        background-image: url("https://initiate.alphacoders.com/images/453/cropped-1920-1080-453245.jpg?4545");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+
+    }
+
+}
+@media screen and (min-width:2560px){
+    body{
+        background-image: url("https://images.alphacoders.com/453/453245.jpg");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+    }
+}
+/*@media screen and (max-width: 5120px){
+    body{
+        background-image: url("https://hdwallpaperim.com/wp-content/uploads/2017/08/22/333335-nebula-space-colorful.jpg");
+        background-attachment: fixed;
+    }
+}
