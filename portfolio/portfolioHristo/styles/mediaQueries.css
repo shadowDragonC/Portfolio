@@ -1,0 +1,38 @@
+@media screen and (max-width:1366px){
+    body{
+    background-image: url("https://hdwallpaperim.com/wp-content/uploads/2017/08/22/333335-nebula-space-colorful.jpg");
+     background-repeat: no-repeat;
+     background-attachment: fixed; 
+    }
+}
+@media screen and (max-width:1600px){
+    body{
+        background-image: url("https://hdwallpaperim.com/wp-content/uploads/2017/08/22/333335-nebula-space-colorful.jpg");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+    }
+
+}
+
+@media screen and (max-width:1920px){
+    body{
+        background-image: url("https://hdwallpaperim.com/wp-content/uploads/2017/08/22/333335-nebula-space-colorful.jpg");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+
+    }
+
+}
+@media screen and (min-width:2560px){
+    body{
+        background-image: url("https://hdwallpaperim.com/wp-content/uploads/2017/08/22/333335-nebula-space-colorful.jpg");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+    }
+}
+@media screen and (max-width: 5120px){
+    body{
+        background-image: url("https://hdwallpaperim.com/wp-content/uploads/2017/08/22/333335-nebula-space-colorful.jpg");
+        background-attachment: fixed;
+    }
+}

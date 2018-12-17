@@ -1,8 +1,3 @@
-body{
-    background-image: url("https://images.wallpaperscraft.com/image/northern_lights_night_night_sky_phenomenon_73483_1280x720.jpg");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-}
 #container{
     display: flex;
     flex-wrap: wrap;
