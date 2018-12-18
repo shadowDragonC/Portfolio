@@ -14,21 +14,21 @@
 #headerDiv{
     width: 100%;
     text-align: center;
-    background-color: rgba(34, 233, 16, 0.637);
+    background-color: rgba(124, 61, 2, 0.548);
     position: inherit;
     top:0px;
 }
 /*text div*/
     #textDiv{
     width: 100%;
-    background-color: rgba(0, 128, 0, 0.534);
+    background-color: rgba(115, 6, 158, 0.781);
     text-align: center;
 }
 /*portfolio bullshit*/
 .portfolioContainer{
     display: flex;
     width: 100%;
-    background-color: rgba(255, 217, 0, 0.438);
+    
     
 }
 img{
@@ -41,14 +41,14 @@ img{
 
 }
 #hristoDiv{
-    background-color:rgba(255, 0, 0, 0.308);
+    background-color:rgba(255, 0, 0, 0.733);
 
 }
 #slaviDiv{
-    background-color: rgba(0, 0, 255, 0.329);
+    background-color:rgba(0, 255, 0, 0.733);
 
 }
 #sisiDiv{
-    background-color:rgba(128, 0, 128, 0.411);
+    background-color: rgba(3, 77, 161, 0.733);
 
 }
